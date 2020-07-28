@@ -1,2 +1,2 @@
 # Detok
-detect copyright infringement all over the world
+etect copyright infringement all over the world
